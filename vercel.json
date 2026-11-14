@@ -2,20 +2,112 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/Hickman-Campaign-Overview-Since-Launch-10-30-26",
+      "destination": "/Hickman-Campaign-Overview-Since-Launch-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Campaign-Overview-Since-Launch-10-30-26.html",
+      "destination": "/Hickman-Campaign-Overview-Since-Launch-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Auto-Campaign-Performance-Since-Launch-10-30-26",
+      "destination": "/Hickman-Auto-Campaign-Performance-Since-Launch-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Auto-Campaign-Performance-Since-Launch-10-30-26.html",
+      "destination": "/Hickman-Auto-Campaign-Performance-Since-Launch-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Home-Campaign-Performance-Since-Launch-10-30-26",
+      "destination": "/Hickman-Home-Campaign-Performance-Since-Launch-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Home-Campaign-Performance-Since-Launch-10-30-26.html",
+      "destination": "/Hickman-Home-Campaign-Performance-Since-Launch-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Monthly-Sales-by-Source-10-30-26",
+      "destination": "/Hickman-Monthly-Sales-by-Source-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Monthly-Sales-by-Source-10-30-26.html",
+      "destination": "/Hickman-Monthly-Sales-by-Source-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Source-ZIP-Sales-10-30-26",
+      "destination": "/Hickman-Source-ZIP-Sales-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Source-ZIP-Sales-10-30-26.html",
+      "destination": "/Hickman-Source-ZIP-Sales-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Producer-Pipeline-10-30-26",
+      "destination": "/Hickman-Producer-Pipeline-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Producer-Pipeline-10-30-26.html",
+      "destination": "/Hickman-Producer-Pipeline-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Inbound-Call-Review-10-30-26",
+      "destination": "/Hickman-Inbound-Call-Review-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-Inbound-Call-Review-10-30-26.html",
+      "destination": "/Hickman-Inbound-Call-Review-11-14-26",
+      "permanent": false
+    },
+    {
+      "source": "/Hickman-ZIP-Sales-10-30-26.csv",
+      "destination": "/Hickman-ZIP-Sales-11-14-26.csv",
+      "permanent": false
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     }
   ]
