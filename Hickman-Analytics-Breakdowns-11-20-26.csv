@@ -1,0 +1,1194 @@
+group,dimension,value,campaign,clicks,spend,leads,calls,quoted,sold
+Settings,Brands,Hickman Insurance Agency,Auto,507,5277.95,378,49,83,9
+Settings,Brands,Hickman Insurance Agency,Home,604,6355.93,450,26,81,7
+Settings,Marketing Group,Vertical,Auto,272,2903.99,211,32,51,7
+Settings,Marketing Group,Affiliate,Auto,207,2103.07,155,15,31,2
+Settings,Marketing Group,External Retargeting,Auto,15,136.50,7,0,0,0
+Settings,Marketing Group,Not assigned,Auto,4,38.62,3,0,0,0
+Settings,Marketing Group,Social,Auto,3,32.34,2,1,1,0
+Settings,Marketing Group,Lifecycle Marketing,Auto,3,36.49,0,0,0,0
+Settings,Marketing Group,External Email,Auto,1,8.98,0,1,0,0
+Settings,Marketing Group,SEO,Auto,1,8.98,0,0,0,0
+Settings,Marketing Group,Search,Auto,1,8.98,0,0,0,0
+Settings,Marketing Group,Affiliate,Home,366,3960.36,271,19,54,4
+Settings,Marketing Group,Vertical,Home,224,2220.80,172,7,26,3
+Settings,Marketing Group,Social,Home,8,106.32,5,0,0,0
+Settings,Marketing Group,Not assigned,Home,2,33.06,1,0,1,0
+Settings,Marketing Group,Search,Home,1,5.20,1,0,0,0
+Settings,Marketing Group,External Email,Home,2,26.19,0,0,0,0
+Settings,Marketing Group,Lifecycle Marketing,Home,1,4.00,0,0,0,0
+Settings,Ad Groups,Texas Minus Coastal,Auto,290,2974.16,223,29,49,6
+Settings,Ad Groups,TX Hot Zips,Auto,183,1889.69,129,17,32,3
+Settings,Ad Groups,SATX,Auto,34,414.10,26,3,2,0
+Settings,Ad Groups,Texas minus coastal,Home,382,2900.50,294,13,45,3
+Settings,Ad Groups,Texas Hot Zips,Home,222,3455.43,156,13,36,4
+Timeframe,Day of Week,Monday,Auto,102,1074.72,73,10,18,0
+Timeframe,Day of Week,Tuesday,Auto,108,1127.63,82,12,20,4
+Timeframe,Day of Week,Wednesday,Auto,108,1100.51,80,9,17,2
+Timeframe,Day of Week,Thursday,Auto,111,1156.41,85,8,19,2
+Timeframe,Day of Week,Friday,Auto,78,818.68,58,10,9,1
+Timeframe,Day of Week,Monday,Home,97,1068.87,71,2,23,1
+Timeframe,Day of Week,Tuesday,Home,121,1288.13,93,5,17,1
+Timeframe,Day of Week,Wednesday,Home,117,1273.86,82,3,18,2
+Timeframe,Day of Week,Thursday,Home,124,1311.23,93,5,11,2
+Timeframe,Day of Week,Friday,Home,100,1211.49,73,9,10,1
+Timeframe,Day of Week,Saturday,Home,27,124.55,22,2,0,0
+Timeframe,Day of Week,Sunday,Home,18,77.80,16,0,2,0
+Timeframe,Hour,9 AM Central (7 AM Pacific),Auto,250,2588.51,196,23,38,5
+Timeframe,Hour,10 AM Central (8 AM Pacific),Auto,112,1163.98,81,10,15,1
+Timeframe,Hour,11 AM Central (9 AM Pacific),Auto,95,1011.35,65,8,15,1
+Timeframe,Hour,12 PM Central (10 AM Pacific),Auto,35,365.46,28,7,12,2
+Timeframe,Hour,1 PM Central (11 AM Pacific),Auto,6,60.63,3,0,1,0
+Timeframe,Hour,3 PM Central (1 PM Pacific),Auto,8,77.69,4,1,2,0
+Timeframe,Hour,4 PM Central (2 PM Pacific),Auto,1,10.33,1,0,0,0
+Timeframe,Hour,12 AM Central (10 PM Pacific),Home,10,44.60,7,0,1,0
+Timeframe,Hour,1 AM Central (11 PM Pacific),Home,9,41.38,7,0,1,0
+Timeframe,Hour,2 AM Central (12 AM Pacific),Home,6,26.60,4,0,0,0
+Timeframe,Hour,3 AM Central (1 AM Pacific),Home,3,14.00,3,0,0,0
+Timeframe,Hour,4 AM Central (2 AM Pacific),Home,6,29.20,6,1,0,0
+Timeframe,Hour,5 AM Central (3 AM Pacific),Home,4,17.00,4,0,0,0
+Timeframe,Hour,6 AM Central (4 AM Pacific),Home,3,13.00,2,0,0,0
+Timeframe,Hour,7 AM Central (5 AM Pacific),Home,5,21.80,3,0,0,0
+Timeframe,Hour,8 AM Central (6 AM Pacific),Home,7,31.09,4,0,0,0
+Timeframe,Hour,9 AM Central (7 AM Pacific),Home,46,543.27,36,2,10,0
+Timeframe,Hour,10 AM Central (8 AM Pacific),Home,111,1545.65,77,9,18,4
+Timeframe,Hour,11 AM Central (9 AM Pacific),Home,120,1743.15,77,3,23,0
+Timeframe,Hour,12 PM Central (10 AM Pacific),Home,80,1167.26,60,5,13,0
+Timeframe,Hour,1 PM Central (11 AM Pacific),Home,35,372.48,29,1,4,0
+Timeframe,Hour,2 PM Central (12 PM Pacific),Home,27,172.51,23,0,1,0
+Timeframe,Hour,3 PM Central (1 PM Pacific),Home,19,81.40,16,4,2,1
+Timeframe,Hour,4 PM Central (2 PM Pacific),Home,13,57.40,10,0,0,0
+Timeframe,Hour,5 PM Central (3 PM Pacific),Home,15,76.38,11,0,0,0
+Timeframe,Hour,6 PM Central (4 PM Pacific),Home,15,62.60,13,0,1,0
+Timeframe,Hour,7 PM Central (5 PM Pacific),Home,10,42.80,10,1,2,0
+Timeframe,Hour,8 PM Central (6 PM Pacific),Home,13,54.00,8,0,1,0
+Timeframe,Hour,9 PM Central (7 PM Pacific),Home,21,89.00,19,0,3,2
+Timeframe,Hour,10 PM Central (8 PM Pacific),Home,14,58.76,11,0,0,0
+Timeframe,Hour,11 PM Central (9 PM Pacific),Home,12,50.60,10,0,1,0
+Timeframe,Date,2026-07-09,Auto,3,26.94,3,0,1,0
+Timeframe,Date,2026-07-13,Auto,3,26.94,3,0,0,0
+Timeframe,Date,2026-07-14,Auto,4,39.52,4,1,1,1
+Timeframe,Date,2026-07-15,Auto,3,28.74,3,0,1,0
+Timeframe,Date,2026-07-16,Auto,3,32.69,3,1,1,0
+Timeframe,Date,2026-07-20,Auto,3,26.94,3,0,1,0
+Timeframe,Date,2026-07-21,Auto,3,28.74,3,0,0,0
+Timeframe,Date,2026-07-22,Auto,3,28.74,3,0,1,0
+Timeframe,Date,2026-07-23,Auto,3,26.94,1,0,0,0
+Timeframe,Date,2026-07-27,Auto,3,26.94,3,0,1,0
+Timeframe,Date,2026-07-28,Auto,3,30.54,2,0,0,0
+Timeframe,Date,2026-07-29,Auto,3,28.74,3,2,0,0
+Timeframe,Date,2026-07-30,Auto,3,32.34,3,0,0,0
+Timeframe,Date,2026-08-03,Auto,3,28.74,2,0,0,0
+Timeframe,Date,2026-08-04,Auto,3,28.74,2,1,0,0
+Timeframe,Date,2026-08-05,Auto,3,30.54,3,0,0,0
+Timeframe,Date,2026-08-06,Auto,3,26.94,3,0,0,0
+Timeframe,Date,2026-08-10,Auto,3,28.74,2,0,0,0
+Timeframe,Date,2026-08-11,Auto,3,28.74,3,1,0,0
+Timeframe,Date,2026-08-12,Auto,3,32.34,1,0,0,0
+Timeframe,Date,2026-08-13,Auto,3,33.69,2,1,0,0
+Timeframe,Date,2026-08-17,Auto,3,30.54,2,0,0,0
+Timeframe,Date,2026-08-18,Auto,3,29.19,1,0,0,0
+Timeframe,Date,2026-08-19,Auto,3,31.43,3,0,1,1
+Timeframe,Date,2026-08-20,Auto,3,29.19,1,0,0,0
+Timeframe,Date,2026-08-24,Auto,3,31.44,3,0,0,0
+Timeframe,Date,2026-08-25,Auto,3,28.74,2,0,0,0
+Timeframe,Date,2026-08-26,Auto,3,31.61,2,0,0,0
+Timeframe,Date,2026-08-27,Auto,3,32.34,1,0,0,0
+Timeframe,Date,2026-08-31,Auto,3,37.72,3,0,1,0
+Timeframe,Date,2026-09-01,Auto,3,26.94,3,0,0,0
+Timeframe,Date,2026-09-02,Auto,3,29.19,3,0,0,0
+Timeframe,Date,2026-09-03,Auto,3,28.74,3,0,0,0
+Timeframe,Date,2026-09-08,Auto,3,27.84,3,0,1,0
+Timeframe,Date,2026-09-09,Auto,3,31.89,2,0,0,0
+Timeframe,Date,2026-09-10,Auto,3,30.54,3,0,0,0
+Timeframe,Date,2026-09-14,Auto,4,39.52,4,1,1,0
+Timeframe,Date,2026-09-15,Auto,3,36.71,3,1,1,0
+Timeframe,Date,2026-09-16,Auto,3,33.90,1,0,0,0
+Timeframe,Date,2026-09-17,Auto,4,44.30,3,0,1,0
+Timeframe,Date,2026-09-21,Auto,3,33.13,2,2,1,0
+Timeframe,Date,2026-09-22,Auto,3,35.59,3,0,1,1
+Timeframe,Date,2026-09-23,Auto,3,27.39,1,0,1,0
+Timeframe,Date,2026-09-24,Auto,3,31.52,3,0,2,0
+Timeframe,Date,2026-09-28,Auto,2,26.53,2,0,1,0
+Timeframe,Date,2026-09-29,Auto,3,30.54,2,0,0,0
+Timeframe,Date,2026-09-30,Auto,3,29.19,1,0,0,0
+Timeframe,Date,2026-10-01,Auto,3,30.26,3,0,0,0
+Timeframe,Date,2026-10-02,Auto,9,88.02,5,1,2,0
+Timeframe,Date,2026-10-05,Auto,10,108.07,7,0,2,0
+Timeframe,Date,2026-10-06,Auto,11,108.22,8,1,3,1
+Timeframe,Date,2026-10-07,Auto,11,108.47,7,1,0,0
+Timeframe,Date,2026-10-08,Auto,10,100.03,8,1,3,1
+Timeframe,Date,2026-10-09,Auto,11,107.33,9,1,2,1
+Timeframe,Date,2026-10-12,Auto,10,101.72,8,1,1,0
+Timeframe,Date,2026-10-13,Auto,11,108.23,6,1,3,0
+Timeframe,Date,2026-10-14,Auto,10,101.05,8,2,4,1
+Timeframe,Date,2026-10-15,Auto,11,107.66,8,0,2,0
+Timeframe,Date,2026-10-16,Auto,10,101.41,6,2,1,0
+Timeframe,Date,2026-10-19,Auto,11,106.43,5,1,2,0
+Timeframe,Date,2026-10-20,Auto,10,104.20,8,1,5,1
+Timeframe,Date,2026-10-21,Auto,11,109.58,8,0,2,0
+Timeframe,Date,2026-10-22,Auto,10,102.75,8,1,1,0
+Timeframe,Date,2026-10-23,Auto,10,104.30,8,2,3,0
+Timeframe,Date,2026-10-26,Auto,10,105.43,7,1,3,0
+Timeframe,Date,2026-10-27,Auto,10,104.91,5,2,0,0
+Timeframe,Date,2026-10-28,Auto,12,110.01,7,2,2,0
+Timeframe,Date,2026-10-29,Auto,10,105.65,5,0,3,0
+Timeframe,Date,2026-10-30,Auto,10,104.68,8,0,0,0
+Timeframe,Date,2026-11-02,Auto,10,108.37,5,3,1,0
+Timeframe,Date,2026-11-03,Auto,10,110.48,7,0,1,0
+Timeframe,Date,2026-11-04,Auto,10,101.50,8,1,1,0
+Timeframe,Date,2026-11-05,Auto,10,108.24,8,2,4,1
+Timeframe,Date,2026-11-06,Auto,10,102.85,7,3,1,0
+Timeframe,Date,2026-11-09,Auto,9,103.16,6,0,0,0
+Timeframe,Date,2026-11-10,Auto,9,103.15,8,2,2,0
+Timeframe,Date,2026-11-11,Auto,9,104.07,7,0,2,0
+Timeframe,Date,2026-11-12,Auto,11,122.48,9,1,1,0
+Timeframe,Date,2026-11-13,Auto,9,103.67,7,0,0,0
+Timeframe,Date,2026-11-16,Auto,9,104.36,6,1,3,0
+Timeframe,Date,2026-11-17,Auto,10,116.61,9,1,2,0
+Timeframe,Date,2026-11-18,Auto,9,102.13,9,1,2,0
+Timeframe,Date,2026-11-19,Auto,9,103.17,7,1,0,0
+Timeframe,Date,2026-11-20,Auto,9,106.42,8,1,0,0
+Timeframe,Date,2026-07-09,Home,2,8.00,1,0,0,0
+Timeframe,Date,2026-07-10,Home,3,12.00,2,0,1,1
+Timeframe,Date,2026-07-11,Home,2,8.00,1,0,0,0
+Timeframe,Date,2026-07-12,Home,3,12.00,3,0,1,0
+Timeframe,Date,2026-07-13,Home,6,24.00,5,0,1,0
+Timeframe,Date,2026-07-14,Home,11,44.00,10,0,1,0
+Timeframe,Date,2026-07-15,Home,4,16.00,3,0,1,0
+Timeframe,Date,2026-07-16,Home,6,24.00,6,0,0,0
+Timeframe,Date,2026-07-17,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-07-18,Home,2,8.00,2,0,0,0
+Timeframe,Date,2026-07-19,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-07-20,Home,2,8.00,1,0,1,1
+Timeframe,Date,2026-07-21,Home,6,25.20,5,0,2,0
+Timeframe,Date,2026-07-22,Home,2,8.00,2,0,0,0
+Timeframe,Date,2026-07-23,Home,8,32.00,6,0,1,0
+Timeframe,Date,2026-07-24,Home,1,4.00,0,0,0,0
+Timeframe,Date,2026-07-25,Home,4,17.20,4,0,0,0
+Timeframe,Date,2026-07-26,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-07-27,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-07-28,Home,7,29.20,6,1,0,0
+Timeframe,Date,2026-07-29,Home,7,28.00,6,2,0,0
+Timeframe,Date,2026-07-30,Home,13,54.00,11,0,0,0
+Timeframe,Date,2026-07-31,Home,11,44.00,9,1,0,0
+Timeframe,Date,2026-08-01,Home,4,16.00,2,0,0,0
+Timeframe,Date,2026-08-02,Home,3,12.00,3,0,0,0
+Timeframe,Date,2026-08-03,Home,11,45.20,8,0,1,0
+Timeframe,Date,2026-08-04,Home,5,20.00,2,0,0,0
+Timeframe,Date,2026-08-05,Home,5,21.20,3,0,0,0
+Timeframe,Date,2026-08-06,Home,3,13.20,3,0,0,0
+Timeframe,Date,2026-08-07,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-08-10,Home,2,8.00,2,0,0,0
+Timeframe,Date,2026-08-11,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-08-12,Home,3,11.80,2,0,0,0
+Timeframe,Date,2026-08-13,Home,2,8.00,2,0,0,0
+Timeframe,Date,2026-08-14,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-08-15,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-08-18,Home,1,4.00,1,0,0,0
+Timeframe,Date,2026-08-19,Home,4,17.60,2,0,0,0
+Timeframe,Date,2026-08-20,Home,8,37.00,6,1,0,0
+Timeframe,Date,2026-08-21,Home,2,9.60,2,1,0,0
+Timeframe,Date,2026-08-22,Home,8,34.00,7,1,0,0
+Timeframe,Date,2026-08-23,Home,2,8.00,2,0,0,0
+Timeframe,Date,2026-08-24,Home,7,31.60,6,0,0,0
+Timeframe,Date,2026-08-25,Home,8,38.16,8,0,0,0
+Timeframe,Date,2026-08-26,Home,8,37.40,8,0,0,0
+Timeframe,Date,2026-08-27,Home,4,19.00,3,0,1,1
+Timeframe,Date,2026-08-29,Home,3,12.80,2,1,0,0
+Timeframe,Date,2026-08-30,Home,8,37.80,6,0,1,0
+Timeframe,Date,2026-08-31,Home,8,38.20,6,0,1,0
+Timeframe,Date,2026-09-01,Home,8,37.40,7,1,1,0
+Timeframe,Date,2026-09-02,Home,10,45.60,9,0,3,0
+Timeframe,Date,2026-09-03,Home,8,37.80,5,0,1,0
+Timeframe,Date,2026-09-04,Home,6,30.38,5,1,0,0
+Timeframe,Date,2026-09-05,Home,3,24.55,3,0,0,0
+Timeframe,Date,2026-09-08,Home,3,23.91,2,0,0,0
+Timeframe,Date,2026-09-11,Home,2,17.45,2,0,0,0
+Timeframe,Date,2026-09-15,Home,11,161.08,9,1,1,0
+Timeframe,Date,2026-09-16,Home,11,166.76,9,0,4,1
+Timeframe,Date,2026-09-17,Home,11,164.34,8,1,0,0
+Timeframe,Date,2026-09-18,Home,11,165.27,9,1,1,0
+Timeframe,Date,2026-09-21,Home,11,160.52,8,0,5,0
+Timeframe,Date,2026-09-22,Home,10,150.92,9,0,2,0
+Timeframe,Date,2026-09-23,Home,11,154.53,7,0,1,0
+Timeframe,Date,2026-09-24,Home,11,177.04,6,0,1,0
+Timeframe,Date,2026-09-25,Home,11,161.41,8,1,2,0
+Timeframe,Date,2026-09-28,Home,10,151.65,8,1,4,0
+Timeframe,Date,2026-09-29,Home,11,166.99,7,1,3,0
+Timeframe,Date,2026-09-30,Home,11,162.22,8,0,3,1
+Timeframe,Date,2026-10-01,Home,10,151.75,7,0,1,0
+Timeframe,Date,2026-10-02,Home,10,151.44,5,2,1,0
+Timeframe,Date,2026-10-05,Home,5,75.97,3,0,0,0
+Timeframe,Date,2026-10-06,Home,6,87.54,4,0,2,0
+Timeframe,Date,2026-10-07,Home,6,92.04,3,0,2,0
+Timeframe,Date,2026-10-08,Home,5,77.66,3,0,1,0
+Timeframe,Date,2026-10-09,Home,6,87.03,3,0,1,0
+Timeframe,Date,2026-10-12,Home,6,94.02,4,1,3,0
+Timeframe,Date,2026-10-13,Home,6,88.10,5,1,2,1
+Timeframe,Date,2026-10-14,Home,6,88.15,3,0,1,0
+Timeframe,Date,2026-10-15,Home,6,89.71,5,0,1,0
+Timeframe,Date,2026-10-16,Home,5,76.46,5,1,1,0
+Timeframe,Date,2026-10-19,Home,7,105.45,6,0,2,0
+Timeframe,Date,2026-10-20,Home,5,78.30,2,0,1,0
+Timeframe,Date,2026-10-21,Home,6,85.81,2,1,1,0
+Timeframe,Date,2026-10-22,Home,6,91.03,5,0,2,0
+Timeframe,Date,2026-10-23,Home,6,92.04,4,0,0,0
+Timeframe,Date,2026-10-26,Home,5,78.35,5,0,1,0
+Timeframe,Date,2026-10-27,Home,5,76.00,2,0,0,0
+Timeframe,Date,2026-10-28,Home,6,90.38,3,0,1,0
+Timeframe,Date,2026-10-29,Home,5,81.60,5,0,0,0
+Timeframe,Date,2026-10-30,Home,6,91.44,5,0,1,0
+Timeframe,Date,2026-11-02,Home,5,76.65,3,0,3,0
+Timeframe,Date,2026-11-03,Home,5,79.76,4,0,1,0
+Timeframe,Date,2026-11-04,Home,6,83.68,6,0,1,0
+Timeframe,Date,2026-11-05,Home,5,77.43,3,0,0,0
+Timeframe,Date,2026-11-06,Home,6,89.24,4,1,2,0
+Timeframe,Date,2026-11-09,Home,6,89.95,4,0,1,0
+Timeframe,Date,2026-11-10,Home,6,87.47,4,0,1,0
+Timeframe,Date,2026-11-11,Home,5,75.28,3,0,0,0
+Timeframe,Date,2026-11-12,Home,5,83.52,4,2,0,0
+Timeframe,Date,2026-11-13,Home,5,80.79,3,0,0,0
+Timeframe,Date,2026-11-16,Home,5,77.31,1,0,0,0
+Timeframe,Date,2026-11-17,Home,6,86.10,5,0,0,0
+Timeframe,Date,2026-11-18,Home,6,89.41,3,0,0,0
+Timeframe,Date,2026-11-19,Home,6,84.15,4,1,2,1
+Timeframe,Date,2026-11-20,Home,6,86.94,4,0,0,0
+Timeframe,Week,2026-07-06,Auto,3,26.94,3,0,1,0
+Timeframe,Week,2026-07-13,Auto,13,127.89,13,2,3,1
+Timeframe,Week,2026-07-20,Auto,12,111.36,10,0,2,0
+Timeframe,Week,2026-07-27,Auto,12,118.56,11,2,1,0
+Timeframe,Week,2026-08-03,Auto,12,114.96,10,1,0,0
+Timeframe,Week,2026-08-10,Auto,12,123.51,8,2,0,0
+Timeframe,Week,2026-08-17,Auto,12,120.35,7,0,1,1
+Timeframe,Week,2026-08-24,Auto,12,124.13,8,0,0,0
+Timeframe,Week,2026-08-31,Auto,12,122.59,12,0,1,0
+Timeframe,Week,2026-09-07,Auto,9,90.27,8,0,1,0
+Timeframe,Week,2026-09-14,Auto,14,154.43,11,2,3,0
+Timeframe,Week,2026-09-21,Auto,12,127.63,9,2,5,1
+Timeframe,Week,2026-09-28,Auto,20,204.54,13,1,3,0
+Timeframe,Week,2026-10-05,Auto,53,532.12,39,4,10,3
+Timeframe,Week,2026-10-12,Auto,52,520.07,36,6,11,1
+Timeframe,Week,2026-10-19,Auto,52,527.26,37,5,13,1
+Timeframe,Week,2026-10-26,Auto,52,530.68,32,5,8,0
+Timeframe,Week,2026-11-02,Auto,50,531.44,35,9,8,1
+Timeframe,Week,2026-11-09,Auto,47,536.53,37,3,5,0
+Timeframe,Week,2026-11-16,Auto,46,532.69,39,5,7,0
+Timeframe,Week,2026-07-06,Home,10,40.00,7,0,2,1
+Timeframe,Week,2026-07-13,Home,31,124.00,28,0,3,0
+Timeframe,Week,2026-07-20,Home,24,98.40,19,0,4,1
+Timeframe,Week,2026-07-27,Home,46,187.20,38,4,0,0
+Timeframe,Week,2026-08-03,Home,25,103.60,17,0,1,0
+Timeframe,Week,2026-08-10,Home,10,39.80,9,0,0,0
+Timeframe,Week,2026-08-17,Home,25,110.20,20,3,0,0
+Timeframe,Week,2026-08-24,Home,38,176.76,33,1,2,1
+Timeframe,Week,2026-08-31,Home,43,213.93,35,2,6,0
+Timeframe,Week,2026-09-07,Home,5,41.36,4,0,0,0
+Timeframe,Week,2026-09-14,Home,44,657.45,35,3,6,1
+Timeframe,Week,2026-09-21,Home,54,804.42,38,1,11,0
+Timeframe,Week,2026-09-28,Home,52,784.05,35,4,12,1
+Timeframe,Week,2026-10-05,Home,28,420.24,16,0,6,0
+Timeframe,Week,2026-10-12,Home,29,436.44,22,3,8,1
+Timeframe,Week,2026-10-19,Home,30,452.63,19,1,6,0
+Timeframe,Week,2026-10-26,Home,27,417.77,20,0,3,0
+Timeframe,Week,2026-11-02,Home,27,406.76,20,1,7,0
+Timeframe,Week,2026-11-09,Home,27,417.01,18,2,2,0
+Timeframe,Week,2026-11-16,Home,29,423.91,17,1,2,1
+Timeframe,Month,2026-07,Auto,40,384.75,37,4,7,1
+Timeframe,Month,2026-08,Auto,51,520.67,36,3,2,1
+Timeframe,Month,2026-09,Auto,52,543.46,42,4,10,1
+Timeframe,Month,2026-10,Auto,221,2228.41,152,21,44,5
+Timeframe,Month,2026-11,Auto,143,1600.66,111,17,20,1
+Timeframe,Month,2026-07,Home,104,421.60,87,4,9,2
+Timeframe,Month,2026-08,Home,113,496.56,90,4,4,1
+Timeframe,Month,2026-09,Home,170,2159.82,129,8,32,2
+Timeframe,Month,2026-10,Home,134,2030.27,89,6,25,1
+Timeframe,Month,2026-11,Home,83,1247.68,55,4,11,1
+Timeframe,Quarter,2026 Q3,Auto,143,1448.88,115,11,19,3
+Timeframe,Quarter,2026 Q4,Auto,364,3829.07,263,38,64,6
+Timeframe,Quarter,2026 Q3,Home,387,3077.98,306,16,45,5
+Timeframe,Quarter,2026 Q4,Home,217,3277.95,144,10,36,2
+Timeframe,Year,2026,Auto,507,5277.95,378,49,83,9
+Timeframe,Year,2026,Home,604,6355.93,450,26,81,7
+Geography,States,TX,Auto,507,5277.95,378,49,83,9
+Geography,States,TX,Home,604,6355.93,450,26,81,7
+Geography,City,San Antonio,Auto,55,589.69,28,3,8,0
+Geography,City,Dallas,Auto,27,267.46,21,3,9,0
+Geography,City,Fort Worth,Auto,22,221.41,16,2,4,0
+Geography,City,Arlington,Auto,15,157.92,13,1,2,0
+Geography,City,El Paso,Auto,15,154.49,9,2,3,0
+Geography,City,Austin,Auto,10,104.36,7,2,0,0
+Geography,City,Lubbock,Auto,7,72.75,6,0,1,0
+Geography,City,San Marcos,Auto,8,92.98,5,1,0,0
+Geography,City,Tyler,Auto,6,62.98,5,2,3,0
+Geography,City,Killeen,Auto,6,59.54,5,2,1,0
+Geography,City,Mesquite,Auto,5,52.89,5,0,1,0
+Geography,City,Plano,Auto,5,48.95,5,0,1,1
+Geography,City,Longview,Auto,5,54.90,4,1,1,1
+Geography,City,Amarillo,Auto,5,54.61,4,0,0,0
+Geography,City,Bedford,Auto,5,52.55,4,0,2,0
+Geography,City,Temple,Auto,4,44.12,4,0,1,0
+Geography,City,Laredo,Auto,4,40.87,4,0,0,0
+Geography,City,Wichita Falls,Auto,5,52.55,3,1,1,0
+Geography,City,Angleton,Auto,5,48.05,3,1,1,1
+Geography,City,Desoto,Auto,5,45.80,3,0,1,0
+Geography,City,Aubrey,Auto,4,41.76,3,0,1,0
+Geography,City,San Angelo,Auto,4,41.32,3,0,0,0
+Geography,City,Bryan,Auto,4,40.42,3,0,0,0
+Geography,City,Lewisville,Auto,4,38.17,3,1,1,1
+Geography,City,Burleson,Auto,3,33.91,3,0,1,0
+Geography,City,Abilene,Auto,3,30.99,3,0,0,0
+Geography,City,Irving,Auto,3,30.09,3,1,1,0
+Geography,City,Round Rock,Auto,5,51.20,2,1,1,0
+Geography,City,Garland,Auto,4,43.20,2,0,1,0
+Geography,City,Carrollton,Auto,4,43.00,2,1,1,0
+Geography,City,Georgetown,Auto,4,42.84,2,0,3,1
+Geography,City,College Station,Auto,4,42.58,2,1,2,2
+Geography,City,Waco,Auto,4,39.85,2,0,0,0
+Geography,City,Grand Prairie,Auto,4,38.62,2,0,1,0
+Geography,City,Harker Heights,Auto,3,34.40,2,0,0,0
+Geography,City,Granbury,Auto,3,33.83,2,0,0,0
+Geography,City,Eagle Pass,Auto,3,32.60,2,2,1,0
+Geography,City,Terrell,Auto,3,31.34,2,0,0,0
+Geography,City,Allen,Auto,3,30.99,2,0,0,0
+Geography,City,Pampa,Auto,3,30.54,2,0,0,0
+Geography,City,Brownwood,Auto,3,30.09,2,0,0,0
+Geography,City,Bandera,Auto,3,29.64,2,0,1,0
+Geography,City,Hurst,Auto,3,29.19,2,1,1,0
+Geography,City,Kempner,Auto,2,22.18,2,0,1,0
+Geography,City,Floresville,Auto,2,21.96,2,0,0,0
+Geography,City,Bastrop,Auto,2,21.37,2,0,0,0
+Geography,City,Adkins,Auto,2,21.26,2,0,1,0
+Geography,City,Crowley,Auto,2,21.11,2,1,1,0
+Geography,City,Mabank,Auto,2,21.11,2,0,0,0
+Geography,City,Odessa,Auto,2,21.11,2,0,1,0
+Geography,City,Denison,Auto,2,20.66,2,0,0,0
+Geography,City,Mineral Wells,Auto,2,20.66,2,0,1,0
+Geography,City,Whitesboro,Auto,2,20.66,2,0,0,0
+Geography,City,Jefferson,Auto,2,20.54,2,0,1,0
+Geography,City,Salado,Auto,2,20.32,2,0,0,0
+Geography,City,Cedar Hill,Auto,2,20.21,2,0,0,0
+Geography,City,Richardson,Auto,2,19.76,2,0,0,0
+Geography,City,Uvalde,Auto,2,18.86,2,0,0,0
+Geography,City,Denton,Auto,5,50.30,1,0,0,0
+Geography,City,Midland,Auto,4,40.42,1,0,1,0
+Geography,City,Texarkana,Auto,3,33.46,1,0,0,0
+Geography,City,Plainview,Auto,3,32.15,1,0,0,0
+Geography,City,McKinney,Auto,3,29.64,1,0,0,0
+Geography,City,Cleburne,Auto,2,23.69,1,0,0,0
+Geography,City,Marble Falls,Auto,2,23.69,1,0,0,0
+Geography,City,New Braunfels,Auto,2,22.81,1,1,0,0
+Geography,City,Hutto,Auto,2,21.11,1,0,0,0
+Geography,City,Buffalo,Auto,2,20.66,1,1,0,0
+Geography,City,Royse City,Auto,2,20.66,1,0,1,0
+Geography,City,Freeport,Auto,2,19.76,1,0,0,0
+Geography,City,Kerrville,Auto,2,19.76,1,0,0,0
+Geography,City,Sherman,Auto,2,19.76,1,1,0,0
+Geography,City,Hallsville,Auto,2,19.49,1,0,1,0
+Geography,City,Ft Worth,Auto,2,19.31,1,0,0,0
+Geography,City,Marshall,Auto,2,19.31,1,0,1,0
+Geography,City,Waxahachie,Auto,2,19.31,1,0,0,0
+Geography,City,Taylor,Auto,2,18.77,1,0,0,0
+Geography,City,Alvarado,Auto,2,18.41,1,0,0,0
+Geography,City,Burkburnett,Auto,2,17.96,1,0,0,0
+Geography,City,Princeton,Auto,2,17.51,1,0,0,0
+Geography,City,Seguin,Auto,1,14.37,1,0,0,0
+Geography,City,Charlotte,Auto,1,14.14,1,0,0,0
+Geography,City,Clarendon,Auto,1,14.14,1,1,1,0
+Geography,City,Forney,Auto,1,13.47,1,0,1,1
+Geography,City,Graham,Auto,1,13.47,1,0,0,0
+Geography,City,Mansfield,Auto,1,12.93,1,1,0,0
+Geography,City,San Amtonio,Auto,1,12.57,1,0,0,0
+Geography,City,Munday,Auto,1,12.39,1,0,0,0
+Geography,City,Roanoke,Auto,1,12.39,1,0,1,0
+Geography,City,Red Oak,Auto,1,12.35,1,0,0,0
+Geography,City,Kyle,Auto,1,11.98,1,0,0,0
+Geography,City,Tom Bean,Auto,1,11.85,1,0,0,0
+Geography,City,Willspoint,Auto,1,11.79,1,0,0,0
+Geography,City,Brownfield,Auto,1,11.23,1,0,0,0
+Geography,City,Bulverde,Auto,1,11.23,1,0,0,0
+Geography,City,Copperas Cove,Auto,1,11.23,1,0,0,0
+Geography,City,Kemp,Auto,1,11.23,1,1,0,0
+Geography,City,Lufkin,Auto,1,11.23,1,0,0,0
+Geography,City,Melissa,Auto,1,11.23,1,0,0,0
+Geography,City,Quinlan,Auto,1,11.23,1,0,0,0
+Geography,City,Albuquerque,Auto,1,10.78,1,0,0,0
+Geography,City,Bonham,Auto,1,10.78,1,0,0,0
+Geography,City,Canyon Lake,Auto,1,10.78,1,0,0,0
+Geography,City,Chapel Hill,Auto,1,10.78,1,0,0,0
+Geography,City,Cisco,Auto,1,10.78,1,0,0,0
+Geography,City,Farmersville,Auto,1,10.78,1,0,0,0
+Geography,City,Gun Barrel City,Auto,1,10.78,1,0,1,0
+Geography,City,Lakewood Village,Auto,1,10.78,1,1,1,0
+Geography,City,Leon Valley,Auto,1,10.78,1,0,0,0
+Geography,City,Liberty Hill,Auto,1,10.78,1,0,1,0
+Geography,City,New Boston,Auto,1,10.78,1,1,1,0
+Geography,City,Ozona,Auto,1,10.78,1,1,0,0
+Geography,City,Saint Hedwig,Auto,1,10.78,1,0,0,0
+Geography,City,Slaton,Auto,1,10.78,1,0,0,0
+Geography,City,Sulphur Springs,Auto,1,10.78,1,0,0,0
+Geography,City,Sumner,Auto,1,10.78,1,0,0,0
+Geography,City,White Settlement,Auto,1,10.78,1,0,0,0
+Geography,City,Wills Point,Auto,1,10.78,1,0,0,0
+Geography,City,Abbott,Auto,1,10.33,1,0,0,0
+Geography,City,Acton,Auto,1,10.33,1,0,0,0
+Geography,City,Albany,Auto,1,10.33,1,0,0,0
+Geography,City,Axtell,Auto,1,10.33,1,1,1,0
+Geography,City,Belfalls,Auto,1,10.33,1,0,0,0
+Geography,City,Blue Mound,Auto,1,10.33,1,0,0,0
+Geography,City,Canutillo,Auto,1,10.33,1,0,1,0
+Geography,City,Castroville,Auto,1,10.33,1,0,0,0
+Geography,City,Cedar Park,Auto,1,10.33,1,0,0,0
+Geography,City,Chandler,Auto,1,10.33,1,0,0,0
+Geography,City,Coppell,Auto,1,10.33,1,0,0,0
+Geography,City,Fate,Auto,1,10.33,1,0,1,0
+Geography,City,Horseshoe Bay,Auto,1,10.33,1,0,0,0
+Geography,City,Larue,Auto,1,10.33,1,0,0,0
+Geography,City,Littlefield,Auto,1,10.33,1,1,0,0
+Geography,City,Nocona,Auto,1,10.33,1,0,1,0
+Geography,City,Paris,Auto,1,10.33,1,0,0,0
+Geography,City,Rogers,Auto,1,10.33,1,1,1,1
+Geography,City,Rotan,Auto,1,10.33,1,0,0,0
+Geography,City,Tolar,Auto,1,10.33,1,0,0,0
+Geography,City,Woodway,Auto,1,10.33,1,0,0,0
+Geography,City,Lake Jackson,Auto,1,9.88,1,0,0,0
+Geography,City,Mertzon,Auto,1,9.88,1,0,1,0
+Geography,City,Navasota,Auto,1,9.88,1,0,1,0
+Geography,City,Rockdale,Auto,1,9.88,1,0,0,0
+Geography,City,Wolfforth,Auto,1,9.88,1,0,0,0
+Geography,City,Yantis,Auto,1,9.88,1,0,1,0
+Geography,City,Edgewood,Auto,1,9.43,1,0,0,0
+Geography,City,Frankstpm,Auto,1,9.43,1,1,0,0
+Geography,City,Jacksboro,Auto,1,9.43,1,0,0,0
+Geography,City,Sutherland Springs,Auto,1,9.43,1,0,0,0
+Geography,City,Bowie,Auto,1,8.98,1,0,0,0
+Geography,City,Burnet,Auto,1,8.98,1,0,0,0
+Geography,City,Cross Roads,Auto,1,8.98,1,0,0,0
+Geography,City,Euless,Auto,1,8.98,1,0,0,0
+Geography,City,Flint,Auto,1,8.98,1,0,0,0
+Geography,City,Gainesville,Auto,1,8.98,1,0,0,0
+Geography,City,Hawkins,Auto,1,8.98,1,0,0,0
+Geography,City,Rosebud,Auto,1,8.98,1,0,0,0
+Geography,City,Sanantonio,Auto,1,8.98,1,0,0,0
+Geography,City,Seagoville,Auto,1,8.98,1,0,0,0
+Geography,City,Smithville,Auto,1,8.98,1,0,0,0
+Geography,City,Springtown,Auto,1,8.98,1,0,0,0
+Geography,City,Winnsboro,Auto,1,8.98,1,0,0,0
+Geography,City,Azle,Auto,1,8.53,1,0,0,0
+Geography,City,Flower Mound,Auto,1,8.53,1,1,1,0
+Geography,City,Hughes Springs,Auto,1,8.53,1,0,0,0
+Geography,City,Iola,Auto,1,8.53,1,0,0,0
+Geography,City,Keller,Auto,1,8.53,1,0,0,0
+Geography,City,Troy,Auto,1,8.53,1,0,1,0
+Geography,City,Clyde,Auto,2,21.11,0,0,0,0
+Geography,City,Jacksonville,Auto,2,19.76,0,0,0,0
+Geography,City,Celeste,Auto,2,19.31,0,0,0,0
+Geography,City,Arthur City,Auto,1,15.49,0,0,0,0
+Geography,City,Queen City,Auto,1,14.03,0,0,0,0
+Geography,City,Falls City,Auto,1,13.77,0,0,0,0
+Geography,City,Clifton,Auto,1,13.47,0,0,0,0
+Geography,City,Moody,Auto,1,12.35,0,0,0,0
+Geography,City,Boerne,Auto,1,11.23,0,0,0,0
+Geography,City,Ponder,Auto,1,11.23,0,0,0,0
+Geography,City,Brenham,Auto,1,10.78,0,0,0,0
+Geography,City,Buchanan Dam,Auto,1,10.78,0,0,0,0
+Geography,City,Caldwell,Auto,1,10.78,0,0,0,0
+Geography,City,Decatur,Auto,1,10.78,0,0,0,0
+Geography,City,El Paso Tx .,Auto,1,10.78,0,0,0,0
+Geography,City,Gladewater,Auto,1,10.78,0,0,0,0
+Geography,City,Rockwall,Auto,1,10.78,0,0,0,0
+Geography,City,The Colony,Auto,1,10.78,0,0,0,0
+Geography,City,Justin,Auto,1,10.66,0,0,0,0
+Geography,City,Spring Branch,Auto,1,10.48,0,0,0,0
+Geography,City,Athens,Auto,1,10.33,0,0,0,0
+Geography,City,Gilmer,Auto,1,10.33,0,0,0,0
+Geography,City,Mertens,Auto,1,10.33,0,0,0,0
+Geography,City,North Richland Hills,Auto,1,10.33,0,0,0,0
+Geography,City,Pecan Gap,Auto,1,10.33,0,0,0,0
+Geography,City,Round Top,Auto,1,10.33,0,0,0,0
+Geography,City,Diana,Auto,1,10.24,0,1,0,0
+Geography,City,Lampasas,Auto,1,9.88,0,0,0,0
+Geography,City,Trenton,Auto,1,9.88,0,0,0,0
+Geography,City,Schertz,Auto,1,9.43,0,0,0,0
+Geography,City,Belton,Auto,1,8.98,0,0,0,0
+Geography,City,China Spring,Auto,1,8.98,0,0,0,0
+Geography,City,Manchaca,Auto,1,8.98,0,0,0,0
+Geography,City,Oakwood,Auto,1,8.98,0,0,0,0
+Geography,City,Not tied to a city,Auto,0,0.00,31,4,0,0
+Geography,City,San Antonio,Home,31,303.82,22,0,1,0
+Geography,City,Dallas,Home,27,344.48,22,1,7,0
+Geography,City,El Paso,Home,21,333.64,12,0,3,0
+Geography,City,Fort Worth,Home,12,107.21,9,0,2,0
+Geography,City,Laredo,Home,10,146.95,9,1,4,0
+Geography,City,Arlington,Home,10,90.31,9,0,1,0
+Geography,City,Austin,Home,17,199.89,8,2,1,0
+Geography,City,Garland,Home,14,107.79,7,0,2,0
+Geography,City,San Angelo,Home,9,75.60,7,0,2,0
+Geography,City,Amarillo,Home,10,95.57,6,0,3,0
+Geography,City,Carrollton,Home,8,83.75,6,0,2,0
+Geography,City,Lewisville,Home,7,97.51,6,0,0,0
+Geography,City,Grand Prairie,Home,7,58.90,6,1,0,0
+Geography,City,Odessa,Home,7,57.16,6,1,2,0
+Geography,City,Midland,Home,6,71.91,5,0,0,0
+Geography,City,Cedar Hill,Home,6,54.70,5,0,0,0
+Geography,City,Wichita Falls,Home,6,38.13,5,0,0,0
+Geography,City,Lancaster,Home,5,32.50,5,0,1,0
+Geography,City,Lubbock,Home,9,69.45,4,1,1,1
+Geography,City,Desoto,Home,9,58.47,4,0,0,0
+Geography,City,Mesquite,Home,6,63.69,4,0,0,0
+Geography,City,Temple,Home,6,52.14,4,0,2,0
+Geography,City,Killeen,Home,4,46.08,4,0,1,0
+Geography,City,Abilene,Home,4,26.70,4,0,1,0
+Geography,City,Denton,Home,5,54.22,3,0,1,0
+Geography,City,Plano,Home,5,43.70,3,0,0,0
+Geography,City,Tyler,Home,5,33.53,3,0,0,0
+Geography,City,Waco,Home,4,40.91,3,0,0,0
+Geography,City,Gladewater,Home,4,37.13,3,0,0,0
+Geography,City,Pleasanton,Home,4,27.50,3,0,0,0
+Geography,City,Pittsburg,Home,4,18.00,3,1,1,0
+Geography,City,New Braunfels,Home,3,50.59,3,0,0,0
+Geography,City,Dalhart,Home,3,47.24,3,1,1,0
+Geography,City,Longview,Home,3,35.22,3,1,0,0
+Geography,City,Euless,Home,3,33.00,3,1,1,1
+Geography,City,Forney,Home,3,24.70,3,0,0,0
+Geography,City,Crockett,Home,3,21.61,3,0,1,1
+Geography,City,New Boston,Home,3,13.80,3,0,1,0
+Geography,City,Royse City,Home,3,13.60,3,1,0,0
+Geography,City,Waxahachie,Home,4,63.45,2,1,2,1
+Geography,City,Texarkana,Home,4,60.06,2,1,0,0
+Geography,City,Palestine,Home,4,39.28,2,0,0,0
+Geography,City,Fredericksburg,Home,3,52.03,2,0,2,0
+Geography,City,Leander,Home,3,48.01,2,0,0,0
+Geography,City,Lake Jackson,Home,3,21.97,2,0,0,0
+Geography,City,Granbury,Home,3,12.80,2,0,0,0
+Geography,City,Ben Wheeler,Home,3,12.00,2,0,0,0
+Geography,City,Round Rock,Home,2,33.93,2,0,0,0
+Geography,City,Weatherford,Home,2,32.34,2,0,0,0
+Geography,City,Manor,Home,2,32.00,2,0,1,0
+Geography,City,Frankston,Home,2,31.32,2,1,2,1
+Geography,City,Lufkin,Home,2,27.72,2,0,0,0
+Geography,City,Diboll,Home,2,25.94,2,0,0,0
+Geography,City,Kemp,Home,2,19.68,2,0,0,0
+Geography,City,McKinney,Home,2,19.52,2,0,0,0
+Geography,City,Ennis,Home,2,17.45,2,1,1,0
+Geography,City,Wylie,Home,2,17.23,2,0,0,0
+Geography,City,Mabank,Home,2,15.98,2,0,0,0
+Geography,City,Quinlan,Home,2,15.33,2,0,1,1
+Geography,City,Prosper,Home,2,9.20,2,0,0,0
+Geography,City,Angleton,Home,2,8.00,2,0,0,0
+Geography,City,Bandera,Home,2,8.00,2,0,1,0
+Geography,City,Midlothian,Home,2,8.00,2,0,1,0
+Geography,City,Wills Point,Home,2,7.80,2,0,0,0
+Geography,City,Eagle Pass,Home,4,61.80,1,0,0,0
+Geography,City,Alvarado,Home,4,43.18,1,0,0,0
+Geography,City,Irving,Home,3,48.98,1,0,0,0
+Geography,City,Jacksboro,Home,3,45.50,1,0,0,0
+Geography,City,Big Spring,Home,3,45.47,1,0,0,0
+Geography,City,Denison,Home,3,31.93,1,0,1,0
+Geography,City,Flower Mound,Home,3,24.27,1,0,0,0
+Geography,City,Brownwood,Home,3,22.03,1,0,0,0
+Geography,City,Wolfe City,Home,2,33.93,1,0,1,0
+Geography,City,Henderson,Home,2,33.06,1,0,0,0
+Geography,City,Mansfield,Home,2,33.06,1,0,0,0
+Geography,City,Bangs,Home,2,32.19,1,1,0,0
+Geography,City,Jarrell,Home,2,31.32,1,0,1,0
+Geography,City,Kilgore,Home,2,29.58,1,0,1,0
+Geography,City,Converse,Home,2,28.61,1,0,0,0
+Geography,City,Jacksonville,Home,2,26.90,1,0,1,0
+Geography,City,Whitesboro,Home,2,26.68,1,0,0,0
+Geography,City,Dumas,Home,2,20.46,1,0,0,0
+Geography,City,Athens,Home,2,19.66,1,0,0,0
+Geography,City,Farwell,Home,2,19.36,1,0,0,0
+Geography,City,Nacogdoches,Home,2,18.16,1,0,0,0
+Geography,City,Greenville,Home,2,17.97,1,1,0,0
+Geography,City,Freeport,Home,2,16.74,1,0,0,0
+Geography,City,Corsicana,Home,2,15.86,1,0,0,0
+Geography,City,San Marcos,Home,2,8.80,1,0,0,0
+Geography,City,Allen,Home,2,8.00,1,0,0,0
+Geography,City,Cedar Creek,Home,2,8.00,1,0,0,0
+Geography,City,Burleson,Home,1,18.79,1,0,0,0
+Geography,City,Mertzon,Home,1,17.64,1,0,0,0
+Geography,City,Cisco,Home,1,17.40,1,0,0,0
+Geography,City,Kyle,Home,1,17.40,1,0,0,0
+Geography,City,Rhome,Home,1,17.40,1,0,0,0
+Geography,City,Rio Vista,Home,1,17.40,1,0,0,0
+Geography,City,Willow Park,Home,1,17.40,1,0,0,0
+Geography,City,Bedford,Home,1,16.53,1,0,0,0
+Geography,City,Brackettville,Home,1,16.53,1,0,0,0
+Geography,City,Hawkins,Home,1,16.53,1,0,0,0
+Geography,City,Ingram,Home,1,16.53,1,0,1,0
+Geography,City,Merkel,Home,1,16.53,1,0,1,0
+Geography,City,Pottsboro,Home,1,16.53,1,0,0,0
+Geography,City,Seagoville,Home,1,16.53,1,0,0,0
+Geography,City,De Kalb,Home,1,16.34,1,1,0,0
+Geography,City,Sachse,Home,1,15.88,1,0,0,0
+Geography,City,Tatum,Home,1,15.88,1,1,1,0
+Geography,City,Adkins,Home,1,15.66,1,0,1,0
+Geography,City,Bastrop,Home,1,15.66,1,0,1,0
+Geography,City,Buda,Home,1,15.66,1,0,0,0
+Geography,City,Cleburne,Home,1,15.66,1,0,0,0
+Geography,City,Coppell,Home,1,15.66,1,0,0,0
+Geography,City,Early,Home,1,15.66,1,0,0,0
+Geography,City,Elmendorf,Home,1,15.66,1,0,0,0
+Geography,City,Floresville,Home,1,15.66,1,1,0,0
+Geography,City,Joshua,Home,1,15.66,1,0,0,0
+Geography,City,Richardson,Home,1,15.66,1,0,0,0
+Geography,City,Whitehouse,Home,1,15.66,1,0,0,0
+Geography,City,Elm Mott,Home,1,15.47,1,0,1,0
+Geography,City,Sherman,Home,1,15.31,1,0,0,0
+Geography,City,Chico,Home,1,15.08,1,1,0,0
+Geography,City,Crystal City,Home,1,15.08,1,0,0,0
+Geography,City,Albany,Home,1,14.70,1,0,1,0
+Geography,City,Bremond,Home,1,14.70,1,0,0,0
+Geography,City,Dekalb,Home,1,14.70,1,0,0,0
+Geography,City,Dogwood City,Home,1,14.70,1,0,0,0
+Geography,City,Glenn Heights,Home,1,14.70,1,0,0,0
+Geography,City,Hubbard,Home,1,14.70,1,0,0,0
+Geography,City,Hughes Springs,Home,1,14.70,1,0,0,0
+Geography,City,Little Elm,Home,1,14.70,1,0,0,0
+Geography,City,Lovelady,Home,1,14.70,1,0,0,0
+Geography,City,Red Oak,Home,1,14.70,1,0,0,0
+Geography,City,Sterling City,Home,1,14.70,1,0,0,0
+Geography,City,Hutchins,Home,1,14.69,1,0,0,0
+Geography,City,Decatur,Home,1,14.50,1,1,1,1
+Geography,City,Tahoka,Home,1,14.50,1,0,0,0
+Geography,City,Balch Springs,Home,1,14.16,1,0,0,0
+Geography,City,Earth,Home,1,14.16,1,0,1,0
+Geography,City,Rowena,Home,1,14.16,1,0,0,0
+Geography,City,Pampa,Home,1,14.08,1,0,0,0
+Geography,City,Brady,Home,1,13.97,1,0,0,0
+Geography,City,Canyon Lake,Home,1,13.97,1,0,1,0
+Geography,City,Heath,Home,1,13.97,1,0,0,0
+Geography,City,Lavon,Home,1,13.97,1,0,0,0
+Geography,City,Terrell,Home,1,13.97,1,0,0,0
+Geography,City,Eastland,Home,1,13.92,1,0,0,0
+Geography,City,Frost,Home,1,13.92,1,0,1,0
+Geography,City,Lago Vista,Home,1,13.92,1,1,0,0
+Geography,City,Leesburg,Home,1,13.92,1,0,1,0
+Geography,City,Plantersville,Home,1,13.92,1,0,1,0
+Geography,City,Poteet,Home,1,13.92,1,0,1,0
+Geography,City,Spring Branch,Home,1,13.92,1,0,0,0
+Geography,City,Belton,Home,1,13.61,1,0,1,0
+Geography,City,Copperas Cove,Home,1,13.23,1,0,0,0
+Geography,City,Duncanville,Home,1,13.23,1,0,1,0
+Geography,City,Evant,Home,1,13.23,1,0,0,0
+Geography,City,Harker Heights,Home,1,13.23,1,0,0,0
+Geography,City,Hereford,Home,1,13.23,1,0,0,0
+Geography,City,West,Home,1,13.07,1,0,0,0
+Geography,City,Caddo Mills,Home,1,12.74,1,0,0,0
+Geography,City,Springtown,Home,1,11.76,1,0,1,0
+Geography,City,Bullard,Home,1,11.38,1,0,1,0
+Geography,City,Dilley,Home,1,11.27,1,0,0,0
+Geography,City,Domino,Home,1,9.07,1,0,0,0
+Geography,City,White Deer,Home,1,7.09,1,0,0,0
+Geography,City,Devine,Home,1,5.20,1,0,0,0
+Geography,City,Knollwood,Home,1,5.20,1,0,1,0
+Geography,City,Sweeny,Home,1,5.20,1,0,0,0
+Geography,City,Bivins,Home,1,5.00,1,0,0,0
+Geography,City,Crawford,Home,1,5.00,1,0,0,0
+Geography,City,Dawn,Home,1,5.00,1,0,0,0
+Geography,City,Farmersville,Home,1,5.00,1,0,0,0
+Geography,City,Princeton,Home,1,5.00,1,0,0,0
+Geography,City,Stinnett,Home,1,5.00,1,0,1,0
+Geography,City,Winnsboro,Home,1,5.00,1,0,0,0
+Geography,City,Alanreed,Home,1,4.80,1,0,0,0
+Geography,City,Clarksville,Home,1,4.80,1,0,0,0
+Geography,City,Kaufman,Home,1,4.80,1,0,0,0
+Geography,City,Lockney,Home,1,4.80,1,0,0,0
+Geography,City,Panhandle,Home,1,4.80,1,0,0,0
+Geography,City,Smithville,Home,1,4.80,1,0,0,0
+Geography,City,West Columbia,Home,1,4.80,1,0,0,0
+Geography,City,Anna,Home,1,4.00,1,1,0,0
+Geography,City,Bryan,Home,1,4.00,1,0,0,0
+Geography,City,Buchanan Dam,Home,1,4.00,1,0,0,0
+Geography,City,Carlsbad,Home,1,4.00,1,0,0,0
+Geography,City,Chandler,Home,1,4.00,1,0,0,0
+Geography,City,Charlotte,Home,1,4.00,1,0,0,0
+Geography,City,Danbury,Home,1,4.00,1,0,0,0
+Geography,City,Elkhart,Home,1,4.00,1,0,1,0
+Geography,City,Elysian Fields,Home,1,4.00,1,0,0,0
+Geography,City,Flint,Home,1,4.00,1,0,0,0
+Geography,City,Frisco,Home,1,4.00,1,0,0,0
+Geography,City,Fritch,Home,1,4.00,1,0,0,0
+Geography,City,Gun Barrel City,Home,1,4.00,1,0,0,0
+Geography,City,Hurst,Home,1,4.00,1,0,0,0
+Geography,City,La Grange,Home,1,4.00,1,0,0,0
+Geography,City,Lake Dallas,Home,1,4.00,1,0,0,0
+Geography,City,Leakey,Home,1,4.00,1,0,0,0
+Geography,City,Lipan,Home,1,4.00,1,0,0,0
+Geography,City,Loving,Home,1,4.00,1,0,1,0
+Geography,City,Manvel,Home,1,4.00,1,0,0,0
+Geography,City,Mexia,Home,1,4.00,1,0,0,0
+Geography,City,Millsap,Home,1,4.00,1,0,0,0
+Geography,City,Nolanville,Home,1,4.00,1,0,0,0
+Geography,City,Ransom Canyon,Home,1,4.00,1,0,0,0
+Geography,City,Rice,Home,1,4.00,1,0,0,0
+Geography,City,Richland,Home,1,4.00,1,0,0,0
+Geography,City,Rockwall,Home,1,4.00,1,0,0,0
+Geography,City,Streetman,Home,1,4.00,1,0,0,0
+Geography,City,Sumner,Home,1,4.00,1,0,0,0
+Geography,City,Tennessee Colony,Home,1,4.00,1,0,0,0
+Geography,City,Tornillo,Home,1,4.00,1,0,0,0
+Geography,City,White Oak,Home,1,4.00,1,0,0,0
+Geography,City,Del Rio,Home,2,31.61,0,0,0,0
+Geography,City,Lorena,Home,1,18.79,0,0,0,0
+Geography,City,Daingerfield,Home,1,16.53,0,0,0,0
+Geography,City,Claytonville,Home,1,15.92,0,0,0,0
+Geography,City,Gilmer,Home,1,15.92,0,0,0,0
+Geography,City,Hillsboro,Home,1,15.92,0,0,0,0
+Geography,City,Manchaca,Home,1,15.92,0,0,0,0
+Geography,City,Venus,Home,1,15.92,0,0,0,0
+Geography,City,College Station,Home,1,15.66,0,0,0,0
+Geography,City,Seguin,Home,1,15.66,0,0,0,0
+Geography,City,Seminole,Home,1,15.66,0,0,0,0
+Geography,City,Stephenville,Home,1,15.66,0,0,0,0
+Geography,City,Weinert,Home,1,15.52,0,0,0,0
+Geography,City,Watauga,Home,1,14.70,0,0,0,0
+Geography,City,Scroggins,Home,1,14.16,0,0,0,0
+Geography,City,Powderly,Home,1,14.08,0,0,0,0
+Geography,City,Bushland,Home,1,13.97,0,0,0,0
+Geography,City,Lillian,Home,1,13.97,0,0,0,0
+Geography,City,Rockdale,Home,1,13.97,0,0,1,0
+Geography,City,Sulphur Springs,Home,1,13.97,0,0,0,0
+Geography,City,Whitney,Home,1,13.97,0,0,0,0
+Geography,City,Hondo,Home,1,13.92,0,0,0,0
+Geography,City,Navasota,Home,1,13.47,0,0,0,0
+Geography,City,Italy,Home,1,13.45,0,0,0,0
+Geography,City,Ector,Home,1,13.23,0,0,0,0
+Geography,City,Pipe Creek,Home,1,13.23,0,0,0,0
+Geography,City,Mineola,Home,1,12.89,0,0,0,0
+Geography,City,Ponder,Home,1,12.55,0,0,0,0
+Geography,City,Levelland,Home,1,11.76,0,0,0,0
+Geography,City,Burkburnett,Home,1,11.33,0,0,0,0
+Geography,City,Caldwell,Home,1,8.38,0,0,0,0
+Geography,City,Kerrville,Home,1,6.98,0,0,0,0
+Geography,City,Emory,Home,1,5.00,0,0,0,0
+Geography,City,Mount Pleasant,Home,1,5.00,0,0,0,0
+Geography,City,Big Sandy,Home,1,4.80,0,0,0,0
+Geography,City,Bowie,Home,1,4.80,0,0,0,0
+Geography,City,Alba,Home,1,4.00,0,0,0,0
+Geography,City,Arp,Home,1,4.00,0,0,0,0
+Geography,City,Avinger,Home,1,4.00,0,0,0,0
+Geography,City,Ballinger,Home,1,4.00,0,0,0,0
+Geography,City,Bonham,Home,1,4.00,0,0,0,0
+Geography,City,Brenham,Home,1,4.00,0,0,0,0
+Geography,City,Forreston,Home,1,4.00,0,0,0,0
+Geography,City,Hideaway,Home,1,4.00,0,0,0,0
+Geography,City,Lometa,Home,1,4.00,0,0,0,0
+Geography,City,Montalba,Home,1,4.00,0,0,0,0
+Geography,City,Paris,Home,1,4.00,0,0,0,0
+Geography,City,Spur,Home,1,4.00,0,0,0,0
+Geography,City,Not tied to a city,Home,0,0.00,25,1,0,0
+Geography,County,Bexar,Auto,63,675.17,53,7,10,1
+Geography,County,Tarrant,Auto,56,571.90,45,6,10,0
+Geography,County,Dallas,Auto,54,541.72,43,5,14,0
+Geography,County,Bell,Auto,18,186.22,17,3,3,0
+Geography,County,Denton,Auto,22,222.89,15,3,5,1
+Geography,County,Collin,Auto,17,168.41,14,0,2,1
+Geography,County,El Paso,Auto,17,175.60,10,2,4,0
+Geography,County,Williamson,Auto,16,165.36,10,2,5,1
+Geography,County,Lubbock,Auto,9,93.41,8,0,1,0
+Geography,County,Smith,Auto,8,82.74,7,2,3,0
+Geography,County,Travis,Auto,10,103.01,6,1,0,0
+Geography,County,Hays,Auto,9,104.96,6,1,0,0
+Geography,County,Johnson,Auto,7,76.01,6,0,1,0
+Geography,County,Grayson,Auto,7,72.93,6,1,0,0
+Geography,County,Brazos,Auto,8,83.00,5,1,2,2
+Geography,County,Brazoria,Auto,8,77.69,5,1,1,1
+Geography,County,Wichita,Auto,7,70.51,5,1,1,0
+Geography,County,Henderson,Auto,6,62.88,5,0,1,0
+Geography,County,McLennan,Auto,8,81.84,4,1,1,0
+Geography,County,Gregg,Auto,6,65.68,4,1,1,1
+Geography,County,Kaufman,Auto,5,56.04,4,1,1,1
+Geography,County,Hood,Auto,5,54.49,4,0,0,0
+Geography,County,Webb,Auto,4,40.87,4,0,0,0
+Geography,County,Comal,Auto,5,55.30,3,1,0,0
+Geography,County,Tom Green,Auto,4,41.32,3,0,0,0
+Geography,County,Van Zandt,Auto,3,32.00,3,0,0,0
+Geography,County,Wilson,Auto,3,31.39,3,0,0,0
+Geography,County,Taylor,Auto,3,30.99,3,0,0,0
+Geography,County,Bastrop,Auto,3,30.35,3,0,0,0
+Geography,County,Brown,Auto,3,30.09,3,0,0,0
+Geography,County,Wood,Auto,3,27.84,3,0,1,0
+Geography,County,Bowie,Auto,4,44.24,2,1,1,0
+Geography,County,Rockwall,Auto,4,41.77,2,0,2,0
+Geography,County,Harrison,Auto,4,38.80,2,0,2,0
+Geography,County,Lamar,Auto,3,36.60,2,0,0,0
+Geography,County,Burnet,Auto,3,32.67,2,0,0,0
+Geography,County,Maverick,Auto,3,32.60,2,2,1,0
+Geography,County,Lampasas,Auto,3,32.06,2,0,1,0
+Geography,County,Ellis,Auto,3,31.66,2,0,0,0
+Geography,County,Randall,Auto,3,31.44,2,0,0,0
+Geography,County,Gray,Auto,3,30.54,2,0,0,0
+Geography,County,Bandera,Auto,3,29.64,2,0,1,0
+Geography,County,Potter,Auto,2,23.17,2,0,0,0
+Geography,County,Ector,Auto,2,21.11,2,0,1,0
+Geography,County,Palo Pinto,Auto,2,20.66,2,0,1,0
+Geography,County,Marion,Auto,2,20.54,2,0,1,0
+Geography,County,Montague,Auto,2,19.31,2,0,1,0
+Geography,County,Uvalde,Auto,2,18.86,2,0,0,0
+Geography,County,Grimes,Auto,2,18.41,2,0,1,0
+Geography,County,Midland,Auto,4,40.42,1,0,1,0
+Geography,County,Hale,Auto,3,32.15,1,0,0,0
+Geography,County,Hunt,Auto,3,30.54,1,0,0,0
+Geography,County,Leon,Auto,3,29.64,1,1,0,0
+Geography,County,Guadalupe,Auto,2,23.80,1,0,0,0
+Geography,County,Cass,Auto,2,22.56,1,0,0,0
+Geography,County,Llano,Auto,2,21.11,1,0,0,0
+Geography,County,Fannin,Auto,2,20.66,1,0,0,0
+Geography,County,Hill,Auto,2,20.66,1,0,0,0
+Geography,County,Kerr,Auto,2,19.76,1,0,0,0
+Geography,County,Atascosa,Auto,1,14.14,1,0,0,0
+Geography,County,Donley,Auto,1,14.14,1,1,1,0
+Geography,County,Young,Auto,1,13.47,1,0,0,0
+Geography,County,Knox,Auto,1,12.39,1,0,0,0
+Geography,County,Angelina,Auto,1,11.23,1,0,0,0
+Geography,County,Coryell,Auto,1,11.23,1,0,0,0
+Geography,County,Terry,Auto,1,11.23,1,0,0,0
+Geography,County,Crockett,Auto,1,10.78,1,1,0,0
+Geography,County,Eastland,Auto,1,10.78,1,0,0,0
+Geography,County,Hopkins,Auto,1,10.78,1,0,0,0
+Geography,County,Wise,Auto,1,10.78,1,0,0,0
+Geography,County,Fisher,Auto,1,10.33,1,0,0,0
+Geography,County,Lamb,Auto,1,10.33,1,1,0,0
+Geography,County,Medina,Auto,1,10.33,1,0,0,0
+Geography,County,Shackelford,Auto,1,10.33,1,0,0,0
+Geography,County,Irion,Auto,1,9.88,1,0,1,0
+Geography,County,Milam,Auto,1,9.88,1,0,0,0
+Geography,County,Anderson,Auto,1,9.43,1,1,0,0
+Geography,County,Jack,Auto,1,9.43,1,0,0,0
+Geography,County,Cooke,Auto,1,8.98,1,0,0,0
+Geography,County,Falls,Auto,1,8.98,1,0,0,0
+Geography,County,Parker,Auto,1,8.98,1,0,0,0
+Geography,County,Callahan,Auto,2,21.11,0,0,0,0
+Geography,County,Upshur,Auto,2,20.57,0,1,0,0
+Geography,County,Cherokee,Auto,2,19.76,0,0,0,0
+Geography,County,Karnes,Auto,1,13.77,0,0,0,0
+Geography,County,Bosque,Auto,1,13.47,0,0,0,0
+Geography,County,Kendall,Auto,1,11.23,0,0,0,0
+Geography,County,Burleson,Auto,1,10.78,0,0,0,0
+Geography,County,Washington,Auto,1,10.78,0,0,0,0
+Geography,County,Delta,Auto,1,10.33,0,0,0,0
+Geography,County,Fayette,Auto,1,10.33,0,0,0,0
+Geography,County,Dallas,Home,84,875.32,64,2,11,0
+Geography,County,Tarrant,Home,30,298.81,27,1,4,1
+Geography,County,Bexar,Home,35,363.75,26,0,2,0
+Geography,County,Denton,Home,26,291.00,20,0,3,0
+Geography,County,Collin,Home,18,129.62,15,1,0,0
+Geography,County,El Paso,Home,22,337.64,14,0,3,0
+Geography,County,Travis,Home,21,261.73,11,3,2,0
+Geography,County,Bell,Home,13,129.06,11,0,4,0
+Geography,County,Ellis,Home,12,135.75,9,3,4,1
+Geography,County,Brazoria,Home,11,64.71,9,0,0,0
+Geography,County,Webb,Home,10,146.95,9,1,4,0
+Geography,County,Gregg,Home,10,105.93,9,1,1,0
+Geography,County,Tom Green,Home,10,79.60,8,0,2,0
+Geography,County,Bowie,Home,9,104.90,8,2,1,0
+Geography,County,Anderson,Home,9,82.60,8,1,3,1
+Geography,County,Smith,Home,11,87.27,7,0,1,0
+Geography,County,Kaufman,Home,7,63.15,7,0,0,0
+Geography,County,McLennan,Home,8,93.24,6,0,1,0
+Geography,County,Williamson,Home,7,113.26,6,0,1,0
+Geography,County,Ector,Home,7,57.16,6,1,2,0
+Geography,County,Taylor,Home,6,54.99,6,0,2,0
+Geography,County,Johnson,Home,10,140.58,5,0,0,0
+Geography,County,Lubbock,Home,10,73.45,5,1,1,1
+Geography,County,Grayson,Home,8,95.65,5,0,2,0
+Geography,County,Hunt,Home,7,79.97,5,1,2,1
+Geography,County,Wichita,Home,7,49.46,5,0,0,0
+Geography,County,Midland,Home,6,71.91,5,0,0,0
+Geography,County,Atascosa,Home,6,45.42,5,0,1,0
+Geography,County,Henderson,Home,6,43.64,5,0,0,0
+Geography,County,Comal,Home,5,78.48,5,0,1,0
+Geography,County,Parker,Home,5,65.50,5,0,1,0
+Geography,County,Randall,Home,5,65.01,5,0,1,0
+Geography,County,Camp,Home,5,31.92,5,1,2,0
+Geography,County,Rockwall,Home,5,31.57,5,1,0,0
+Geography,County,Potter,Home,6,44.53,4,0,2,0
+Geography,County,Navarro,Home,5,37.78,4,0,1,0
+Geography,County,Van Zandt,Home,5,19.80,4,0,0,0
+Geography,County,Houston,Home,4,36.31,4,0,1,1
+Geography,County,Brown,Home,6,69.88,3,1,0,0
+Geography,County,Hays,Home,4,41.86,3,0,0,0
+Geography,County,Cass,Home,4,32.77,3,0,0,0
+Geography,County,Bastrop,Home,4,28.46,3,0,1,0
+Geography,County,Hood,Home,4,16.80,3,0,0,0
+Geography,County,Dallam,Home,3,47.24,3,1,1,0
+Geography,County,Wise,Home,3,46.98,3,2,1,1
+Geography,County,Angelina,Home,3,41.90,3,0,0,0
+Geography,County,Wood,Home,4,38.42,2,0,0,0
+Geography,County,Gillespie,Home,3,52.03,2,0,2,0
+Geography,County,Rusk,Home,3,48.94,2,1,1,0
+Geography,County,Hill,Home,3,44.59,2,0,0,0
+Geography,County,Bandera,Home,3,21.23,2,0,1,0
+Geography,County,Eastland,Home,2,31.32,2,0,0,0
+Geography,County,Cherokee,Home,2,26.90,2,0,1,0
+Geography,County,Coryell,Home,2,26.46,2,0,0,0
+Geography,County,Gray,Home,2,18.88,2,0,0,0
+Geography,County,Deaf Smith,Home,2,18.23,2,0,0,0
+Geography,County,Carson,Home,2,11.89,2,0,0,0
+Geography,County,Hutchinson,Home,2,9.00,2,0,1,0
+Geography,County,Maverick,Home,4,61.80,1,0,0,0
+Geography,County,Jack,Home,3,45.50,1,0,0,0
+Geography,County,Howard,Home,3,45.47,1,0,0,0
+Geography,County,Lamar,Home,3,22.08,1,0,0,0
+Geography,County,Grimes,Home,2,27.39,1,0,1,0
+Geography,County,Kerr,Home,2,23.51,1,0,1,0
+Geography,County,Upshur,Home,2,20.72,1,0,0,0
+Geography,County,Moore,Home,2,20.46,1,0,0,0
+Geography,County,Brazos,Home,2,19.66,1,0,0,0
+Geography,County,Parmer,Home,2,19.36,1,0,0,0
+Geography,County,Medina,Home,2,19.12,1,0,0,0
+Geography,County,Nacogdoches,Home,2,18.16,1,0,0,0
+Geography,County,Runnels,Home,2,18.16,1,0,0,0
+Geography,County,Irion,Home,1,17.64,1,0,0,0
+Geography,County,Kinney,Home,1,16.53,1,0,0,0
+Geography,County,Erath,Home,1,15.66,1,0,0,0
+Geography,County,Wilson,Home,1,15.66,1,1,0,0
+Geography,County,Zavala,Home,1,15.08,1,0,0,0
+Geography,County,Robertson,Home,1,14.70,1,0,0,0
+Geography,County,Shackelford,Home,1,14.70,1,0,1,0
+Geography,County,Sterling,Home,1,14.70,1,0,0,0
+Geography,County,Lynn,Home,1,14.50,1,0,0,0
+Geography,County,Lamb,Home,1,14.16,1,0,1,0
+Geography,County,McCulloch,Home,1,13.97,1,0,0,0
+Geography,County,Milam,Home,1,13.97,1,0,1,0
+Geography,County,Frio,Home,1,11.27,1,0,0,0
+Geography,County,Floyd,Home,1,4.80,1,0,0,0
+Geography,County,Red River,Home,1,4.80,1,0,0,0
+Geography,County,Fayette,Home,1,4.00,1,0,0,0
+Geography,County,Freestone,Home,1,4.00,1,0,0,0
+Geography,County,Harrison,Home,1,4.00,1,0,0,0
+Geography,County,Limestone,Home,1,4.00,1,0,0,0
+Geography,County,Llano,Home,1,4.00,1,0,0,0
+Geography,County,Real,Home,1,4.00,1,0,0,0
+Geography,County,Young,Home,1,4.00,1,0,1,0
+Geography,County,Val Verde,Home,2,31.61,0,0,0,0
+Geography,County,Fannin,Home,2,17.23,0,0,0,0
+Geography,County,Morris,Home,1,16.53,0,0,0,0
+Geography,County,Nolan,Home,1,15.92,0,0,0,0
+Geography,County,Gaines,Home,1,15.66,0,0,0,0
+Geography,County,Guadalupe,Home,1,15.66,0,0,0,0
+Geography,County,Haskell,Home,1,15.52,0,0,0,0
+Geography,County,Franklin,Home,1,14.16,0,0,0,0
+Geography,County,Hopkins,Home,1,13.97,0,0,0,0
+Geography,County,Hockley,Home,1,11.76,0,0,0,0
+Geography,County,Burleson,Home,1,8.38,0,0,0,0
+Geography,County,Rains,Home,1,5.00,0,0,0,0
+Geography,County,Titus,Home,1,5.00,0,0,0,0
+Geography,County,Montague,Home,1,4.80,0,0,0,0
+Geography,County,Dickens,Home,1,4.00,0,0,0,0
+Geography,County,Lampasas,Home,1,4.00,0,0,0,0
+Geography,County,Washington,Home,1,4.00,0,0,0,0
+Types,Insurance Types,Auto,Auto,507,5277.95,378,49,83,9
+Types,Insurance Types,Home,Home,604,6355.93,450,26,81,7
+Types,Device Types,Mobile,Auto,488,5077.69,362,48,83,9
+Types,Device Types,Desktop,Auto,16,166.02,9,0,0,0
+Types,Device Types,Not recorded,Auto,3,34.24,0,0,0,0
+Types,Device Types,Not tied to a device,Auto,0,0.00,7,1,0,0
+Types,Device Types,Mobile,Home,583,6187.54,430,25,79,7
+Types,Device Types,Desktop,Home,21,168.39,11,1,2,0
+Types,Device Types,Not tied to a device,Home,0,0.00,9,0,0,0
+Types,Source Type,Premium Referral,Auto,128,1261.73,94,8,12,0
+Types,Source Type,Email,Auto,108,1165.55,77,13,22,3
+Types,Source Type,Premium Paid Search 2,Auto,58,607.31,45,5,13,2
+Types,Source Type,Internal SEO 2,Auto,53,565.41,44,8,11,2
+Types,Source Type,Native/Display/Social 2,Auto,50,518.22,39,4,11,1
+Types,Source Type,Paid Search,Auto,33,384.32,27,3,3,0
+Types,Source Type,Premium Paid Search 6,Auto,34,376.12,25,4,8,1
+Types,Source Type,Premium Paid Search 3,Auto,14,127.52,13,1,1,0
+Types,Source Type,Premium Email C,Auto,15,136.50,7,0,0,0
+Types,Source Type,Premium Paid Search 5C,Auto,6,53.88,5,2,1,0
+Types,Source Type,Premium Referral 3,Auto,2,17.96,2,0,1,0
+Types,Source Type,Native/Display/Social,Auto,3,36.49,0,0,0,0
+Types,Source Type,Benepath - Google Search,Auto,1,8.98,0,0,0,0
+Types,Source Type,Internal SEO,Auto,1,8.98,0,0,0,0
+Types,Source Type,Premium Email B,Auto,1,8.98,0,1,0,0
+Types,Source Type,Tier 3,Home,229,2462.90,172,12,35,3
+Types,Source Type,Tier 1,Home,229,2736.58,162,11,31,1
+Types,Source Type,Tier 2,Home,121,907.41,98,3,12,2
+Types,Source Type,Home SearchB,Home,21,231.84,14,0,3,1
+Types,Source Type,Native/Display/Social 2,Home,2,8.00,2,0,0,0
+Types,Source Type,Home Search,Home,1,5.20,1,0,0,0
+Types,Source Type,Premium Referral,Home,1,4.00,1,0,0,0
+Types,Property Type,No value,Auto,507,5277.95,378,49,83,9
+Types,Property Type,Single Family Home,Home,478,5198.83,355,24,64,7
+Types,Property Type,Mobile Home,Home,105,896.78,81,2,15,0
+Types,Property Type,Duplex,Home,8,110.73,5,0,0,0
+Types,Property Type,Multi Family Home,Home,8,92.69,5,0,2,0
+Types,Property Type,Townhome,Home,3,35.37,3,0,0,0
+Types,Property Type,Condominium,Home,2,21.53,1,0,0,0
+Types,Life Coverage Type,No value,Auto,507,5277.95,378,49,83,9
+Types,Life Coverage Type,No value,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Age,18,Auto,1,10.33,0,0,0,0
+Consumer Attributes,Age,19,Auto,2,20.12,1,0,0,0
+Consumer Attributes,Age,20,Auto,3,28.74,3,1,0,0
+Consumer Attributes,Age,22,Auto,1,10.33,1,0,0,0
+Consumer Attributes,Age,23,Auto,1,8.98,1,0,0,0
+Consumer Attributes,Age,26,Auto,1,10.78,1,0,0,0
+Consumer Attributes,Age,27,Auto,1,8.98,1,0,0,0
+Consumer Attributes,Age,28,Auto,1,12.39,1,1,1,0
+Consumer Attributes,Age,32,Auto,1,8.98,1,0,0,0
+Consumer Attributes,Age,37,Auto,1,10.48,1,0,0,0
+Consumer Attributes,Age,39,Auto,1,14.37,0,0,0,0
+Consumer Attributes,Age,41,Auto,3,30.09,2,0,0,0
+Consumer Attributes,Age,43,Auto,2,19.31,2,0,1,0
+Consumer Attributes,Age,44,Auto,2,20.66,2,0,1,0
+Consumer Attributes,Age,45,Auto,1,8.98,1,0,0,0
+Consumer Attributes,Age,49,Auto,2,21.26,2,0,0,0
+Consumer Attributes,Age,50,Auto,1,12.39,1,0,0,0
+Consumer Attributes,Age,52,Auto,2,22.68,1,0,0,0
+Consumer Attributes,Age,54,Auto,1,8.98,0,0,0,0
+Consumer Attributes,Age,55,Auto,2,24.25,2,0,0,0
+Consumer Attributes,Age,56,Auto,1,10.33,0,0,0,0
+Consumer Attributes,Age,57,Auto,5,49.75,2,0,0,0
+Consumer Attributes,Age,58,Auto,5,55.90,1,0,0,0
+Consumer Attributes,Age,59,Auto,6,64.94,5,0,1,0
+Consumer Attributes,Age,60,Auto,3,32.34,3,0,0,0
+Consumer Attributes,Age,61,Auto,7,68.31,7,0,2,0
+Consumer Attributes,Age,62,Auto,10,100.50,6,0,0,0
+Consumer Attributes,Age,63,Auto,12,136.08,11,0,0,0
+Consumer Attributes,Age,64,Auto,21,218.43,9,1,5,0
+Consumer Attributes,Age,65,Auto,22,240.11,13,3,4,0
+Consumer Attributes,Age,66,Auto,24,248.80,19,0,1,0
+Consumer Attributes,Age,67,Auto,30,316.31,27,4,8,0
+Consumer Attributes,Age,68,Auto,28,293.46,20,2,6,1
+Consumer Attributes,Age,69,Auto,27,286.38,21,4,5,0
+Consumer Attributes,Age,70,Auto,23,253.51,18,3,4,0
+Consumer Attributes,Age,71,Auto,2,20.83,1,0,0,0
+Consumer Attributes,Age,72,Auto,8,79.49,7,1,1,0
+Consumer Attributes,Age,73,Auto,2,17.96,2,2,0,0
+Consumer Attributes,Age,74,Auto,3,35.48,2,0,0,0
+Consumer Attributes,Age,75,Auto,4,37.72,3,0,0,0
+Consumer Attributes,Age,76,Auto,5,46.70,5,0,1,0
+Consumer Attributes,Age,77,Auto,5,50.30,5,0,0,0
+Consumer Attributes,Age,78,Auto,4,37.72,4,0,0,0
+Consumer Attributes,Age,79,Auto,6,61.08,3,0,0,0
+Consumer Attributes,Age,80,Auto,3,26.94,3,0,0,0
+Consumer Attributes,Age,81,Auto,38,397.90,32,6,9,3
+Consumer Attributes,Age,82,Auto,32,331.75,21,4,5,0
+Consumer Attributes,Age,83,Auto,28,290.49,19,1,5,3
+Consumer Attributes,Age,84,Auto,21,212.21,16,5,6,1
+Consumer Attributes,Age,85,Auto,26,270.26,21,4,7,1
+Consumer Attributes,Age,86,Auto,15,153.15,13,4,3,0
+Consumer Attributes,Age,87,Auto,15,149.87,9,1,1,0
+Consumer Attributes,Age,88,Auto,13,135.96,6,1,1,0
+Consumer Attributes,Age,89,Auto,9,88.97,7,1,1,0
+Consumer Attributes,Age,90,Auto,6,66.47,6,0,2,0
+Consumer Attributes,Age,91,Auto,3,29.97,2,0,1,0
+Consumer Attributes,Age,92,Auto,1,8.98,1,0,0,0
+Consumer Attributes,Age,93,Auto,2,20.21,2,0,1,0
+Consumer Attributes,Age,94,Auto,1,10.33,1,0,0,0
+Consumer Attributes,Age,97,Auto,1,8.98,1,0,0,0
+Consumer Attributes,Age,21,Home,2,26.68,2,0,0,0
+Consumer Attributes,Age,23,Home,21,306.01,16,2,1,0
+Consumer Attributes,Age,24,Home,1,15.66,0,0,0,0
+Consumer Attributes,Age,25,Home,1,15.66,0,0,0,0
+Consumer Attributes,Age,26,Home,4,44.20,3,0,1,0
+Consumer Attributes,Age,27,Home,1,12.74,0,0,0,0
+Consumer Attributes,Age,28,Home,1,16.53,1,0,1,0
+Consumer Attributes,Age,29,Home,2,30.71,1,0,1,0
+Consumer Attributes,Age,30,Home,1,4.00,1,0,0,0
+Consumer Attributes,Age,32,Home,1,15.47,1,0,0,0
+Consumer Attributes,Age,36,Home,2,32.19,2,0,1,0
+Consumer Attributes,Age,37,Home,3,27.80,3,0,0,0
+Consumer Attributes,Age,38,Home,2,30.69,1,0,1,0
+Consumer Attributes,Age,39,Home,3,44.72,2,0,1,1
+Consumer Attributes,Age,41,Home,2,29.33,1,0,0,0
+Consumer Attributes,Age,42,Home,4,52.67,3,1,0,0
+Consumer Attributes,Age,43,Home,2,29.84,2,1,0,0
+Consumer Attributes,Age,44,Home,2,25.94,2,0,0,0
+Consumer Attributes,Age,45,Home,2,31.22,1,0,1,0
+Consumer Attributes,Age,46,Home,3,51.33,3,0,1,0
+Consumer Attributes,Age,47,Home,2,31.32,2,0,1,0
+Consumer Attributes,Age,48,Home,2,23.51,1,0,1,0
+Consumer Attributes,Age,49,Home,5,77.39,3,0,2,0
+Consumer Attributes,Age,50,Home,3,37.06,2,0,0,0
+Consumer Attributes,Age,51,Home,4,51.42,2,0,0,0
+Consumer Attributes,Age,52,Home,7,77.90,5,0,0,0
+Consumer Attributes,Age,53,Home,6,96.62,3,1,1,0
+Consumer Attributes,Age,54,Home,4,61.62,4,0,0,0
+Consumer Attributes,Age,55,Home,11,137.55,6,0,1,0
+Consumer Attributes,Age,56,Home,9,140.00,7,0,2,0
+Consumer Attributes,Age,57,Home,16,225.89,12,0,2,0
+Consumer Attributes,Age,58,Home,15,205.47,11,0,5,0
+Consumer Attributes,Age,59,Home,17,235.24,10,1,1,0
+Consumer Attributes,Age,60,Home,25,375.25,21,1,6,1
+Consumer Attributes,Age,61,Home,40,602.47,24,0,7,0
+Consumer Attributes,Age,62,Home,26,378.16,17,3,6,1
+Consumer Attributes,Age,63,Home,63,901.99,45,4,15,1
+Consumer Attributes,Age,64,Home,61,884.52,45,2,6,0
+Consumer Attributes,Age,65,Home,4,17.00,3,0,0,0
+Consumer Attributes,Age,66,Home,8,32.80,7,0,1,0
+Consumer Attributes,Age,67,Home,6,25.80,6,0,0,0
+Consumer Attributes,Age,68,Home,4,16.00,3,0,0,0
+Consumer Attributes,Age,69,Home,8,32.00,5,0,0,0
+Consumer Attributes,Age,70,Home,9,38.00,8,1,1,0
+Consumer Attributes,Age,71,Home,12,51.80,9,0,1,0
+Consumer Attributes,Age,72,Home,25,106.80,19,1,0,0
+Consumer Attributes,Age,73,Home,20,89.76,17,1,3,1
+Consumer Attributes,Age,74,Home,24,102.00,20,2,3,1
+Consumer Attributes,Age,75,Home,21,87.60,19,0,2,0
+Consumer Attributes,Age,76,Home,16,68.80,14,1,1,0
+Consumer Attributes,Age,77,Home,29,124.00,25,2,2,1
+Consumer Attributes,Age,78,Home,19,80.60,12,1,1,0
+Consumer Attributes,Age,79,Home,23,96.20,18,1,1,0
+Consumer Attributes,Currently Insured,Yes,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Currently Insured,Yes,Home,292,3120.15,215,15,41,4
+Consumer Attributes,Currently Insured,No,Home,312,3235.78,235,11,40,3
+Consumer Attributes,Home Owner,Yes,Auto,177,1892.11,129,18,32,4
+Consumer Attributes,Home Owner,No,Auto,330,3385.84,249,31,51,5
+Consumer Attributes,Home Owner,Yes,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Continuous Coverage,1 year,Auto,121,1246.38,95,18,27,2
+Consumer Attributes,Continuous Coverage,2 years,Auto,122,1254.99,91,8,18,1
+Consumer Attributes,Continuous Coverage,3 years,Auto,55,573.74,40,6,6,1
+Consumer Attributes,Continuous Coverage,4 years,Auto,117,1257.39,84,11,17,4
+Consumer Attributes,Continuous Coverage,5 years,Auto,92,945.45,68,6,15,1
+Consumer Attributes,Continuous Coverage,0 years,Home,312,3235.78,235,11,40,3
+Consumer Attributes,Continuous Coverage,1 year,Home,292,3120.15,215,15,41,4
+Consumer Attributes,Marital Status,Single,Auto,349,3595.55,262,35,61,5
+Consumer Attributes,Marital Status,Married,Auto,158,1682.40,116,14,22,4
+Consumer Attributes,Marital Status,Single,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Education,Associate degree,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Education,No value,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Credit Rating,Good,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Credit Rating,Good,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Military Affiliation,Yes,Auto,116,1200.41,92,11,17,2
+Consumer Attributes,Military Affiliation,No,Auto,391,4077.54,286,38,66,7
+Consumer Attributes,Military Affiliation,Yes,Home,59,502.02,46,3,5,0
+Consumer Attributes,Military Affiliation,No,Home,545,5853.91,404,23,76,7
+Consumer Attributes,Number of drivers,1,Auto,489,5082.31,365,46,81,8
+Consumer Attributes,Number of drivers,2,Auto,17,184.86,12,3,2,1
+Consumer Attributes,Number of drivers,3,Auto,1,10.78,1,0,0,0
+Consumer Attributes,Number of drivers,0,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Number of vehicles,1,Auto,447,4562.64,338,45,77,7
+Consumer Attributes,Number of vehicles,2,Auto,57,679.27,38,4,6,2
+Consumer Attributes,Number of vehicles,3,Auto,2,25.26,1,0,0,0
+Consumer Attributes,Number of vehicles,4,Auto,1,10.78,1,0,0,0
+Consumer Attributes,Number of vehicles,0,Home,604,6355.93,450,26,81,7
+Consumer Attributes,License Status,Active,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,License Status,No value,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Violations,No,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Violations,No,Home,604,6355.93,450,26,81,7
+Consumer Attributes,DUI,No,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,DUI,No,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Accidents,No,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Accidents,No,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Tobacco,No,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Tobacco,No,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Major Health Conditions,No,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Major Health Conditions,No,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Life Coverage Amount,No value,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Life Coverage Amount,No value,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Property Age,Not given,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Property Age,New,Home,14,167.72,11,0,2,0
+Consumer Attributes,Property Age,5 years,Home,14,178.05,10,3,2,1
+Consumer Attributes,Property Age,10 years,Home,78,878.63,54,3,15,1
+Consumer Attributes,Property Age,20 years,Home,121,1361.45,91,5,18,1
+Consumer Attributes,Property Age,30 years,Home,256,2779.36,184,13,31,2
+Consumer Attributes,Property Age,Over 40 years,Home,73,707.40,59,1,7,1
+Consumer Attributes,Property Age,Not given,Home,48,283.32,41,1,6,1
+Consumer Attributes,Commercial Coverage Type,No value,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Commercial Coverage Type,No value,Home,604,6355.93,450,26,81,7
+Consumer Attributes,Household Income,No value,Auto,507,5277.95,378,49,83,9
+Consumer Attributes,Household Income,No value,Home,604,6355.93,450,26,81,7
